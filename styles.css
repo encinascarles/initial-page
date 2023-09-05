@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+}
+
+.header img {
+    max-width: 150px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: #1e90ff; /* Azul eléctrico */
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+p {
+    color: #333;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.content {
+    max-width: 600px;
+    margin: 0 auto;
+}
